@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://bitbucket.org/horizongir/bonsai.sapera/raw/95a879dd55a329cb48dcfbaf50a590afb7bcf379/LICENSE</licenseUrl>
+    <projectUrl>https://bitbucket.org/horizongir/bonsai.sapera</projectUrl>
+    <iconUrl>https://bitbucket.org/horizongir/bonsai/raw/7aacc64dc4647e57362ab310238591dc197fef0d/Resources/Bonsai.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <copyright>$author$ © 2017</copyright>
+    <tags>Bonsai Sapera LT Teledyne Dalsa</tags>
+  </metadata>
+</package>

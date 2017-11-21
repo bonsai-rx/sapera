@@ -1,0 +1,8 @@
+syntax: glob
+.vs
+*.suo
+bin
+packages
+Externals
+Bonsai.Sapera/bin
+Bonsai.Sapera/obj
