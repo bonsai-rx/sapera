@@ -1,8 +1,7 @@
-syntax: glob
 .vs
-*.suo
+.suo
 bin
-packages
-Externals
+packages/
+Externals/
 Bonsai.Sapera/bin
 Bonsai.Sapera/obj
